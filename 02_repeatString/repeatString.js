@@ -1,6 +1,8 @@
 const repeatString = function(string,num) {
-for(i = 0;i<num;i++){
+let i = 0
+    while(i < num){
     return string;
+    i++;
 }
 };
 
