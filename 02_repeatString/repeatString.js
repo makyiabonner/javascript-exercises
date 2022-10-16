@@ -1,9 +1,5 @@
 const repeatString = function(string,num) {
-let i = 0
-    while(i < num){
-    return string;
-    i++;
-}
+string.repeat(num)
 };
 
 // Do not edit below this line
